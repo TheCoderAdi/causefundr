@@ -1,5 +1,10 @@
 # CauseFundr
 
+## Milestone
+This project won the "Best Build on Linea"🏆
+<br/>
+[Link](https://www.hackquest.io/en/hackathon/projects/HackOdisha-40-CauseFundr)
+
 ## Table of Contents
 - [Introduction](#introduction)
 - [Features](#features)
